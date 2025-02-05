@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Dmitry!
 
-🚀 Founder & AI Developer 
-
 ### 🛠️ Currently working on:
 - [Fine-Tuning-OCR-Model-with-PaddleOCR](https://github.com/Dmitry543/Fine-Tuning-OCR-Model-with-PaddleOCR) - Enhancing text recognition accuracy with custom datasets using PaddleOCR.
 
